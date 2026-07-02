@@ -447,7 +447,7 @@ Watch how to download and install: [Coming Soon]
 
 ### Build from Source
 ```bash
-git clone https://github.com/kathirvel-p22/JeduAi.git
+git clone https://github.com/Shafiq-456/JeduAI-App.git
 cd JeduAi/jeduai_app1
 flutter pub get
 flutter build apk --release
